@@ -41,7 +41,7 @@ python3 Run.py
   <b>Hello Programmers!<b> <a href="https://t.me/Style_907" target="blank">Farhad Joya </a> Is Here
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5547F7&background=DBDBDB00&lines=FARHAD+JOYA+TEAM+😉📶)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5547F7&background=DBDBDB00&lines=FARHAD+JOYA+TEAM+😉📶)](https://t.me/Style_907)
 
 
 <p align="center">
